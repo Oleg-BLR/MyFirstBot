@@ -5,7 +5,7 @@ import org.telegram.telegrambots.meta.api.objects.Update;
 import org.telegram.telegrambots.meta.exceptions.TelegramApiException;
 
 /**
- * Класс-обработчик поступающих к боту сообщений.
+ * Класс-обработчик поступающих к боту сообщений. //
  */
 public class EchoBot extends TelegramLongPollingBot {
     /**
